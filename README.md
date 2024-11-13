@@ -1,5 +1,6 @@
-### Hey there, I'm Labinot 😁 
-I'm currently 25 years old and live in the middle of Germany. I'm currently learning IaC mainly, and have been programming on the side.
+### Hey there, I'm Labinot 
+I like to break things (mostly Videogames at the moment) by hacking them.
+Currently I'm living in the Kernel and exploit the Windows API with it's Memory Reading functions.
 
 <!--
 **LabiJH/LabiJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
