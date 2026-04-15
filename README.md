@@ -1,6 +1,4 @@
-### Hey there, I'm Labinot 
-I like to break things (mostly Videogames at the moment) by hacking them.
-Currently I'm living in the Kernel and exploit the Windows API with it's Memory Reading functions.
+### Use OSS.
 
 <!--
 **LabiJH/LabiJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
