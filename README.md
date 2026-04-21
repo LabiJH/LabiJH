@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=2000&color=6C7086&center=true&vCenter=true&width=500&lines=still+here.;still+writing+C.;still+on+linux." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=2000&color=6C7086&center=true&vCenter=true&width=500&lines=wine.;linux." alt="Hello World!" />
 
 </div>
 
@@ -18,8 +18,8 @@
 ### learning
 
 <p>
-  <img src="https://img.shields.io/badge/opengl-1e1e2e?style=flat-square&logo=opengl&logoColor=6C7086" />
-  <img src="https://img.shields.io/badge/vulkan-1e1e2e?style=flat-square&logo=vulkan&logoColor=6C7086" />
+  <img src="https://img.shields.io/badge/c-1e1e2e?style=flat-square&logo=c&logoColor=6C7086" />
+  <img src="https://img.shields.io/badge/wine-1e1e2e?style=flat-square&logo=wine&logoColor=6C7086" />
 </p>
 
 ---
@@ -43,4 +43,4 @@ while (1) {
 
 ---
 
-<sub>low-level things. slow progress. no hurry.</sub>
+<sub>low-level things. slow progress, no hurry.</sub>
