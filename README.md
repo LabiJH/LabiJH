@@ -23,24 +23,3 @@
 </p>
 
 ---
-
-```c
-/* nothing finished yet. */
-while (1) {
-    read();
-    write();
-    segfault();
-}
-```
-
----
-
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LabiJH&show_icons=true&theme=transparent&hide_border=true&title_color=6C7086&text_color=6C7086&icon_color=6C7086" height="140" />
-
-</div>
-
----
-
-<sub>low-level things. slow progress, no hurry.</sub>
